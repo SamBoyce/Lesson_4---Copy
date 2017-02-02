@@ -1,0 +1,267 @@
+/*
+COLOR SCHEMES:
+Mid blue- 47A6FC
+Owangeg- FE500D
+yell tan- FEE24D
+
+*/
+
+
+
+.image-content > img {
+    max-width: 400px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: skyblue;
+    margin-right: 35;
+}
+
+
+
+body {
+    background-color:none;
+    background-image: url(images/back.jpg);
+    background-size: cover;
+    color: none;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.button-wrap {
+    text-align: center;
+    transition: background-color .25s;
+}
+
+    
+.image-content > img {
+    max-width: 400px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: skyblue;
+    margin-right: 35;
+}
+
+    
+
+
+
+.image-content {
+    text-align: center;
+}
+
+
+#skills {
+    text-indent: 50px;
+}
+.image-content > img {
+    max-width: 400px;
+    border-radius: 50%;
+}
+
+
+
+
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    color:47A6FC;
+    font-family: cursive;
+    font-size: 50px;
+        background-image: url(images/trees.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 600px 400px;
+    min-width: 200px;
+    min-height: 60px;
+    text-align: center;
+    
+}
+
+h2 {
+    color: white;
+    text-shadow: 
+        0 0 6px black,
+        0 0 6px black,
+        0 0 6px black,
+        0 0 6px black,
+        0 0 6px black;
+    margin: 10px;
+}
+
+nav > ul > button {
+    background-color: white;
+    color: blueviolet;
+    border-style: solid;
+    border-color: dimgray;
+    color: darkcyan;
+    display: inline-block;
+    margin: 4;
+    transition: background-color .5s;
+}
+
+nav > ul > button:hover {
+    background-color: lightblue;
+    background-color: lightgrey;
+}    
+
+
+aside { 
+    color:black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+}
+
+
+#header {
+    width:100%;
+    background-color: none;
+    text-shadow: 
+         0 0 5px white,
+         0 0 5px white,
+         0 0 5px white,
+         0 0 5px white,
+         0 0 5px white,
+         0 0 5px white;
+}
+
+#header > h1 {
+    margin:0;
+}
+
+#nav {
+    width:100%;
+    background-color: aquamarine;
+    min-height: 30px;
+    height: auto;
+}
+
+
+
+.menu {
+    display:flex;
+        background-color: #5fd8dc;
+        justify-content: space-around;
+    list-style-type: none;
+    margin: 0;
+}
+
+#middle-wrapper-width {
+    display:flex;
+max-width: 960px;
+    margin: 0 auto;
+}
+
+#main-content-wrapper {
+    background-color:none;
+    width: 80%;
+}
+
+p {
+    color: white;
+    text-shadow: 
+        0 0 3px black,
+        0 0 3px black,
+        0 0 3px black,
+        0 0 3px black,
+        0 0 3px black,
+        0 0 3px black;
+    margin: 7px;
+}
+
+
+
+#skills {
+    text-indent: 50px;
+}
+
+
+    
+#favorite-sites {
+    color: none;
+
+}
+
+.side-by-side {
+    display: flex;
+}
+
+
+#latest-work {
+    padding-top: 0px;
+    margin-top: 0;
+    list-style-type: lower-greek;
+    font-size: 35px;
+}
+
+
+#latest-work > li:before {
+    content:"";
+    border-color: transparent blue;
+    border-style: solid;
+    border-width: .25cm 0 .25cm .35cm;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -.5cm;
+    top: .7cm;
+    position: relative;
+    list-style-type: lower-greek;
+    
+}
+#latest-work {
+    list-style-type: lower-greek;
+}
+    
+#favorite-sites {
+    color: none;
+
+}
+
+.side-by-side {
+}
+#favorite-sites > ul {
+    display: flex;
+}
+
+footer {
+    background-color: blueviolet;    margin:0;
+    background-color: whitesmoke;
+}
+#favorite-sites > ul {
+    display: flex;
+    font-size: 50px;
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
+
+#favorite-sites > ul > li > img {
+    max-height: 250px;
+    max-width:  250px;
+    background-color: none;
+    padding-left: 200;
+    align-content: center;
+    margin-top: 100;
+    padding-bottom: 100px;
+}
+
+footer {
+    background-color: blueviolet;
+    background-color: blueviolet;
+    margin:0;
+    background-color: whitesmoke;
+
+    font-size: 50px;
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
+
+
+footer > h1 {
+    margin:0;
+}
+
+
+
